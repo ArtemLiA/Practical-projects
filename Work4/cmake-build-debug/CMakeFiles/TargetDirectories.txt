@@ -1,0 +1,3 @@
+C:/Users/lyaho/CS_Projects/C++/PracticalWorks/Work4/cmake-build-debug/CMakeFiles/Work4.dir
+C:/Users/lyaho/CS_Projects/C++/PracticalWorks/Work4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lyaho/CS_Projects/C++/PracticalWorks/Work4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+1	464	7076646094132147	CMakeFiles/Work3.dir/main.cpp.obj	1284de7e54058d3b
+3	1530	7076654807265098	CMakeFiles/Work4.dir/Pacman.cpp.obj	7d7ad31ecd5ac8e2
+511	653	7076646095970231	Work3.exe	8e55183cace3bc9f
+17	1526	7076654807232979	CMakeFiles/Work4.dir/Entity.cpp.obj	d32a5f305b9c70de
+4	918	7076655013984545	CMakeFiles/Work4.dir/main.cpp.obj	3daf1a2900aad7d0
+10	1631	7076654808286084	CMakeFiles/Work4.dir/Game.cpp.obj	1bdc2996e95ef440
+918	1267	7076655017433939	Work4.exe	1baa155ef2ee78c0
+68	136	7076654793336128	CMakeFiles/Work4.dir/Ghost.cpp.obj	5a87a28cb203cb5d
